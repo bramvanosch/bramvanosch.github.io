@@ -2,12 +2,12 @@ body {
     background-color: lightblue;
   }
   
-  h1 {
+  ul {
     color: white;
     text-align: center;
   }
   
-  p {
+  a {
     font-family: verdana;
     font-size: 20px;
   }
