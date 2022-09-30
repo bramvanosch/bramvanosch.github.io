@@ -4,7 +4,10 @@ body {
   
   ul {
     color: white;
-    
+    display: inline;
+    display: block;
+  padding: 8px;
+  background-color: #dddddd;
     list-style-type: none;
     margin: 0;
     padding: 0;
