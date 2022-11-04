@@ -10,13 +10,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
-  body {
-    font-family: sans-serif;
-    background-position: left top;
-    background-image: url("Inf.\ achtergrond.webp");
-    background-attachment: fixed;
-  }
+
   
   .logo {
     color: var(--color-white);
