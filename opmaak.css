@@ -11,15 +11,15 @@
     box-sizing: border-box;
   }
 
-  
+  body {
+    background-color: rgba(246, 210, 210, 0);
+  }
   .logo {
     color: var(--color-white);
     font-size: 30px;
   }
   
-  .logo span {
-    color: var(--color-primary);
-  }
+
   
   .menu-bar {
     background-color: var(--color-black);
