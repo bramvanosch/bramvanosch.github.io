@@ -1,4 +1,4 @@
-:root {
+:root {/*kleuren die ik wil gebruiken vaststellen*/
     --color-primary: #ff0000;
     --color-white: #e9e9e9;
     --color-black: #971111;
@@ -12,7 +12,7 @@
   }
 
   body {
-    background-color: rgba(246, 210, 210, 0);
+    background-color: rgba(177, 47, 47, 0.523);
   }
   .logo {
     color: var(--color-white);
