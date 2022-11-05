@@ -19,7 +19,7 @@
     font-size: 30px;
   }
   
-
+/* alle standaard opmaken voor het menu aanmaken*/
   
   .menu-bar {
     background-color: var(--color-black);
@@ -64,7 +64,7 @@
     padding-top: 3px;
   }
   
-  /* ...  */
+  /* dropdown menu opmaak aanmaken  */
   .dropdown-menu {
     display: none;
   }
@@ -99,14 +99,6 @@
     background-color: var(--color-black);
   }
   
-  p {
-    margin: 15px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    line-height: 1.5;
-    display: block;
-    color: var(--color-black);
-    text-indent: 15px;
-  }
     /* De omlijning van de tekst vormgeven */
   .box {
     background-color: white;
@@ -130,6 +122,15 @@
     color: var(--color-black);
     margin: 15px;
   }
+    /*letterlype voor de tekst aanmaken*/
+    p {
+      margin: 15px;
+      font-family:Verdana, Geneva, Tahoma, sans-serif;
+      line-height: 1.5;
+      display: block;
+      color: var(--color-black);
+      text-indent: 15px;
+    }
   /* opmaak voor footer aanmaken */
   .footer {
     padding: 15px;
